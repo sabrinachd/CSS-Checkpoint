@@ -1,0 +1,60 @@
+* {
+  margin: 8px;
+  font-family: "roboto";
+  /*background-color: rgb(231, 231, 236);*/
+}
+article {
+  background-color: rgb(194, 194, 235);
+}
+h2 {
+  text-align: center;
+}
+#titre {
+  color: rgb(46, 46, 95);
+
+  font-size: 2em;
+  font-style: italic;
+  text-align: center;
+  border: 1px solid rgb(58, 54, 54);
+  /*text-decoration: underline;*/
+}
+
+h3 {
+  background-color: rgb(150, 150, 218);
+  text-align: center;
+  text-decoration: underline;
+}
+.nav-links {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px;
+  background-color: rgb(236, 236, 245);
+}
+.nav-link a:hover {
+  color: red;
+}
+
+  color: tomato;
+}
+dt {
+  color: rgb(59, 59, 184);
+}
+footer {
+  text-align: center;
+}
+#texte {
+  width: 600px;
+  height: 600px;
+  margin: 0 auto;
+  background-color: rgb(141, 141, 167) e;
+  border: 2px solid grey;
+  background-image: url("map4.jpg");
+  background-position: center;
+}
+#photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #262847;
+}
